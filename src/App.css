@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.active {
+  background-color: yellow;
+}
